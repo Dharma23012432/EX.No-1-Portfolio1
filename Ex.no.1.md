@@ -117,7 +117,7 @@ void displayDigit(int num) {
 }
  ```
 ## CIRCUIT DIAGRAM: 
-  <img width="941" height="570" alt="image" src="https://github.com/user-attachments/assets/f2b53229-03f7-4c47-973f-b7035b99c34e" />
+<img width="954" height="659" alt="image" src="https://github.com/user-attachments/assets/ef196603-71e3-4ee8-86fe-d0eb0cd9c911" />
 
 ## OUTPUT: 
  <img width="941" height="570" alt="image" src="https://github.com/user-attachments/assets/a5290ebf-a4c7-4be3-841f-4a3563cdd1fd" />
