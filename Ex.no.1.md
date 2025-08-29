@@ -120,7 +120,7 @@ void displayDigit(int num) {
 <img width="954" height="659" alt="image" src="https://github.com/user-attachments/assets/ef196603-71e3-4ee8-86fe-d0eb0cd9c911" />
 
 ## OUTPUT: 
- <img width="941" height="570" alt="image" src="https://github.com/user-attachments/assets/a5290ebf-a4c7-4be3-841f-4a3563cdd1fd" />
+<img width="1216" height="828" alt="Screenshot 2025-08-29 154621" src="https://github.com/user-attachments/assets/23439ad4-6ff9-4bc4-a13b-2618208b16b7" />
  
 ## RESULT: 
   program to perform binary counter operation using switch, seven segment and 
