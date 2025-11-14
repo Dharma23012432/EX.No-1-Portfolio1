@@ -1,60 +1,50 @@
+# Ex01 Portfolio
 
-# NAME:DHARMALINGAM 
-# REG NO:212223040037
- 
-# Aim: 
-To design and implement a binary counter using a push button switch as input, a seven-segment display as output, and Arduino Uno as the controller. 
-  
-# Components Required: 
-1.	Arduino Uno R3 board – 1 
- 
-2.	Common cathode Seven Segment Display – 1 
- 
-3.	Push Button switch – 1 
- 
-4.	220Ω resistors – 7 (for limiting current to seven segment LEDs) 
- 
-5.	Breadboard – 1 
- 
-6.	Jumper wires – as required 
- 
-7.	USB cable for Arduino Uno 
- 
-  
-## Theory / Overview of Components: 
-1.	Arduino Uno 
- 
-○ A microcontroller board based on ATmega328P. 
- 
-○ Provides 14 digital I/O pins and 6 analog inputs. 
- 
-○ Used here to control the seven-segment display and detect button presses. 
- 
-2.	Seven Segment Display (Common Cathode) 
- 
-○ An electronic display device for displaying decimal numbers (0–9). 
- 
-○ Composed of 7 LEDs (labeled a–g). 
- 
-○ By turning on/off combinations of LEDs, digits can be displayed. 
- 
-3.	Push Button Switch 
- 
-○ A momentary switch that changes state when pressed. 
- 
-○ Used here as input to increment the counter. 
- 
-  
-# Connection Diagram (Description): 
-●	Seven segment pins a–g connected to Arduino digital pins 2–8 via 220Ω resistors. 
- 
-●	Common cathode connected to GND. 
- 
-●	Push button one side connected to Arduino digital pin 9, other side to GND, with internal pull-up resistor enabled in code. 
- 
- 
- 
- 
+## AIM
+To create a Portfolio using HTML and CSS.
+
+## ALGORITHM
+### STEP 1
+Create an HTML file (index.html)
+
+### STEP 2
+Create a CSS file (style.css)
+
+### STEP 3
+Include a navigation bar with links to different sections.
+
+### STEP 4
+Add structured sections for introduction, about, projects, and contact details.
+
+### STEP 5
+Define global styles for fonts, colors, and layout.
+
+### STEP 6
+Style the header, navigation bar, and sections.
+
+### STEP 7
+Use Flexbox or CSS Grid for layout design.
+
+### STEP 8
+Add hover effects and transitions for interactivity.
+
+### STEP 9
+Add Images and Media.
+
+### STEP 10
+Use optimized images for a professional look.
+
+### STEP 11
+Open the HTML file in a browser to check layout and functionality.
+
+### STEP 12
+Fix styling issues and refine content placement.
+
+### STEP 13
+Deploy the Portfolio.
+
+### STEP 14
+Upload to GitHub Pages for free hosting.
  
 ## CODE:
 ```
@@ -267,14 +257,12 @@ footer a:hover {
 </body>
 </html>
 ```
-## CIRCUIT DIAGRAM: 
-<img width="1907" height="936" alt="image" src="https://github.com/user-attachments/assets/3ea03cfd-5b79-468d-862a-b4631c4db0c0" />
+
+## OUTPUT: 
+ <img width="1907" height="936" alt="image" src="https://github.com/user-attachments/assets/3ea03cfd-5b79-468d-862a-b4631c4db0c0" />
 <img width="1897" height="936" alt="image" src="https://github.com/user-attachments/assets/ba05e20b-8fb4-49dc-9769-490a456b84f8" />
  <img width="1903" height="939" alt="image" src="https://github.com/user-attachments/assets/0e21ca2c-97e0-4a1f-8a57-44454b70a9eb" />
 
-## OUTPUT: 
-<img width="1216" height="828" alt="Screenshot 2025-08-29 154621" src="https://github.com/user-attachments/assets/23439ad4-6ff9-4bc4-a13b-2618208b16b7" />
- 
 ## RESULT: 
   program to perform binary counter operation using switch, seven segment and 
 Arduino controller is successfully executed 
